@@ -10,7 +10,7 @@ I build software that runs on real data: full-stack apps, cloud backends, and th
 
 **Previously:** ML/AI engineering intern at GelTech Labs (built an LLM ingestion pipeline that cut dataset curation from a full day to under 5 minutes), software engineering intern at Laxcen Technologies, and data analyst for UCSD Women's Volleyball.
 
-**Free Lance Web Dev:**
+**Freelance Web Dev:**
 
 - **[SetApartGrooming](https://www.setapartgrooming.com/)**
 - **[PolishTooPerfect](https://www.polishtooperfect.com/)**
